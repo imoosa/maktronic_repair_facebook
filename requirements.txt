@@ -1,2 +1,6 @@
-flask>=2.3.0
-werkzeug>=2.3.0
+flask
+gunicorn
+razorpay
+requests
+openpyxl
+werkzeug
